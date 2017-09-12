@@ -1,0 +1,130 @@
+.border-bottom {
+         border-bottom: 1px solid #eee;
+}
+
+.uk-navbar>.uk-nav>li,
+.uk-navbar ul {
+         background-color: #fff;
+}
+
+nav.uk-navbar {
+         border-bottom: 1px solid #e7e7e7;
+}
+
+.uk-navbar>.uk-nav>li a {
+         height: 30px;
+         line-height: 30px;
+}
+
+.uk-navbar>.uk-nav>li i {
+         padding-right: 10px;
+}
+
+.uk-navbar>.uk-nav>.uk-parent {
+         background-color: #eeeeee;
+}
+
+.uk-navbar>.uk-nav .uk-parent ul a {
+         padding-left: 25px;
+}
+
+.uk-navbar-content,
+nav {
+         height: 50px;
+}
+
+.uk-button-dropdown>button {
+         padding-left: 20px;
+         padding-right: 20px;
+}
+
+.uk-button {
+         color: #006bc7;
+}
+
+.uk-button:hover {
+         color: #23527c;
+}
+
+.uk-icon-caret-down:before {
+         padding-left: 3px;
+}
+
+.uk-button-dropdown.uk-navbar-content {
+         padding: 0 5px;
+}
+
+nav.uk-navbar.uk-hidden-small {
+         width: 250px;
+         height: 0;
+}
+
+.uk-navbar>.uk-nav>li {
+         border-bottom: 1px solid #e7e7e7;
+}
+
+#menu-offcanvas i {
+         padding-right: 10px;
+}
+
+.uk-navbar>.uk-nav>li i.uk-icon-search {
+         padding: 0;
+}
+
+.uk-form {
+         text-align: center;
+         padding: 13px 0;
+         position: relative;
+}
+
+.uk-form input[type="text"],
+.uk-form button {
+         border-radius: 5px;
+         height: 34px;
+}
+
+.uk-form input[type="text"] {
+         position: absolute;
+         left: 15px;
+         width: 72%;
+         padding-right: 45px;
+         border-top-right-radius: 0;
+         border-bottom-right-radius: 0;
+         z-index: 9999;
+}
+
+.uk-form input[type="text"]:focus {
+         box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 8px rgba(102, 175, 233, .6);
+}
+
+.uk-form button {
+         position: relative;
+         left: 88px;
+         color: #222;
+         background: none;
+         border: 1px solid #ddd;
+         border-top-left-radius: 0;
+         border-bottom-left-radius: 0;
+}
+
+.content {
+         margin: -2px 0 0 250px;
+         border-top: 1px solid #e7e7e7;
+         border-left: 1px solid #e7e7e7;
+}
+
+.content h1.uk-width {
+         height: 50px;
+         padding: 0;
+         margin: 40px 0 20px;
+}
+
+.dash-head-block {
+         color: #fff;
+         background-color: #337ab7;
+         border-color: #337ab7;
+}
+
+.font-5x {
+         font-size: 5em;
+}
